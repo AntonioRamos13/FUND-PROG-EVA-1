@@ -1,0 +1,31 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package eva_5_entrada_salida;
+
+import java.util.Scanner;
+
+/**
+ *
+ * @author invitado
+ */
+public class NewClass {
+    // TODO code application logic here
+    //double  es el tipo rel (para numero con parte decimal)
+    double base;
+    double altura;
+    double area;
+    Scanner captu = new Scanner(System.in);
+    
+    System.out.println("introduce la base del triangulo:");
+    base = captu.nextDouble();
+    System.out.println("introduce la altura del triangulo:");
+    altura = captu.nextDouble();
+    
+    area = (base * altura) /2;
+    System.out.println("El area de del triangulo es:");
+    System.out.println(area);
+           
+}

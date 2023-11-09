@@ -6,7 +6,7 @@ package eva2_5_operadores;
 
 /**
  *
- * @author leo
+ * @author Toño
  */
 public class EVA2_5_OPERADORES {
 

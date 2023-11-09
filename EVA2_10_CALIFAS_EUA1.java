@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author leo
+ * @author Toño
  */
 public class EVA2_10_CALIFAS_EUA1 {
 
